@@ -2,6 +2,9 @@
 .si {
   height: auto
 }
+.align-bottom {
+  align-items: flex-end;
+}
 .a,
 .paddi {
   text-align: left
