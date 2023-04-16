@@ -1,0 +1,97 @@
+.bi-shop-window,
+.si {
+  height: auto
+}
+.a,
+.paddi {
+  text-align: left
+}
+.si {
+  width: 300px
+}
+.a {
+  text-shadow: #000 0 0 0;
+  line-height: 110%;
+  font-size: 400%;
+  margin-top: 200px
+}
+.paddi {
+  margin-top: 100px;
+  margin-right: 10%;
+  margin-left: 10%
+}
+.paddi2,
+.paddi3 {
+  margin-left: 30%;
+  margin-right: 30%
+}
+.paddi2 {
+  margin-top: 200px
+}
+.paddi3 {
+  margin-top: 20px
+}
+.div {
+  width: 100%
+}
+.width {
+  width: 220%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-size: 500%
+}
+.about1,
+.about2 {
+  font-size: 20px
+}
+.about1 {
+  margin-top: 0
+}
+.d {
+  background-color: #fff;
+  border-width: 0;
+  border-radius: 15px
+}
+.d2 {
+  width: 50px;
+  height: 50px
+}
+.center.paddi {
+  text-align: center
+}
+.paddi.paddi3 {
+  margin-left: 20%;
+  margin-right: 20%
+}
+.lungtititle {
+  width: 150px;
+  height: auto
+}
+.values {
+  font-size: 50px;
+  width: 500px
+}
+@media (max-width:768px) {
+  .div {
+    width: 100%
+  }
+  .width {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    width: auto
+  }
+  @media (max-width:640px) {
+    .div {
+      width: 100%
+    }
+    .width {
+      width: auto;
+      overflow-x: hidden;
+      overflow-y: hidden
+    }
+    .values {
+      font-size: 40px
+    }
+  }
+}
+
