@@ -1,0 +1,16 @@
+.sizephone {
+  overflow: auto;
+  width: auto;
+  height: 700px
+}
+.phonesize {
+  height: 800px;
+  width: auto
+}
+.contsize {
+  height: 700px
+}
+.extra {
+  width: 100%
+}
+
