@@ -14,3 +14,14 @@
   width: 100%
 }
 
+.navbar {
+  position: fixed;
+  
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  padding: 6px 10px; /* Adjust padding as needed */
+  z-index: 1000; /* Adjust the z-index as needed */
+  /* Add any other styling properties you need */
+}
